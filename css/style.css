@@ -25,7 +25,7 @@ html {
 }
 
 body {
-    font-family: 'Lora', Georgia, serif;
+    font-family: 'DynaPuff', Georgia, serif;
     color: var(--text-dark);
     background-color: var(--cream);
     overflow-x: hidden;
@@ -35,11 +35,11 @@ body {
    TYPOGRAPHY
    ============================================ */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Playfair Display', Georgia, serif;
+    font-family: 'DynaPuff', Georgia, serif;
 }
 
 .hero-title {
-    font-family: 'Playfair Display', Georgia, serif;
+    font-family: 'DynaPuff', Georgia, serif;
     font-size: clamp(3rem, 8vw, 6rem);
     font-weight: 700;
     color: var(--cream);
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-subtitle {
-    font-family: 'Lora', serif;
+    font-family: 'DynaPuff', serif;
     font-size: clamp(1rem, 2.5vw, 1.4rem);
     color: var(--gold-light);
     letter-spacing: 4px;
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-quote {
-    font-family: 'Lora', serif;
+    font-family: 'DynaPuff', serif;
     font-style: italic;
     font-size: clamp(1rem, 2vw, 1.4rem);
     color: var(--cream-dark);
@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .ampersand {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'DynaPuff', cursive;
     color: var(--gold);
     font-size: 1.2em;
 }
@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--burgundy-dark);
     border: 2px solid var(--gold);
     padding: 0.75rem 2rem;
-    font-family: 'Playfair Display', serif;
+    font-family: 'DynaPuff', serif;
     font-size: 1.1rem;
     font-weight: 700;
     letter-spacing: 1px;
@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mainNav .navbar-brand {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'DynaPuff', cursive;
     font-size: 1.8rem;
     color: var(--gold) !important;
     font-weight: 700;
@@ -161,7 +161,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #mainNav .nav-link {
     color: var(--cream-dark) !important;
-    font-family: 'Lora', serif;
+    font-family: 'DynaPuff', serif;
     font-size: 0.95rem;
     letter-spacing: 1px;
     margin: 0 0.5rem;
@@ -229,7 +229,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-subtitle {
-    font-family: 'Lora', serif;
+    font-family: 'DynaPuff', serif;
     font-style: italic;
     color: var(--text-muted);
     font-size: 1.1rem;
@@ -401,7 +401,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .timeline-year {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'DynaPuff', cursive;
     font-size: 2.5rem;
     color: var(--gold);
     font-weight: 700;
@@ -431,7 +431,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .year-badge {
     display: inline-block;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'DynaPuff', cursive;
     font-size: 2rem;
     color: var(--gold);
     font-weight: 700;
@@ -497,7 +497,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer-names {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'DynaPuff', cursive;
     font-size: 2.5rem;
     color: var(--gold);
     margin-bottom: 0.5rem;
